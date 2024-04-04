@@ -1,0 +1,95 @@
+nav
+{
+    background: #73b9bd;
+    color: white;
+    padding: 20px;
+    padding-left: 60%;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: fixed;
+    width: 100%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+a:hover{
+    color:#dfdfdf;
+}
+
+h1
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+}
+
+h2
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+body
+{
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    
+}
+
+div#profile{
+    padding: 0px;
+    width: 500px;
+    display:block;
+    background: #73b9bd;
+    margin-top: 61px;
+    float:left;
+    margin-left: 400px;
+    
+}
+
+.center{
+    
+    display:block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#intro{
+    padding: 20px;
+    display: inline-block;
+    color: white;
+    background: #73b9bd;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+
+    
+}
+
+div#hello{
+    background: #73b9bd;
+}
+
+div#portfolio{
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+div#thanks{
+   padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
