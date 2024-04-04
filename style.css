@@ -9,6 +9,7 @@ nav
     font-style: normal;
     position: fixed;
     width: 100%;
+    box-shadow: 10px;
 }
 
 a{
