@@ -9,7 +9,7 @@ nav
     font-style: normal;
     position: fixed;
     width: 100%;
-    box-shadow: 10px 10px 5px black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 a{
@@ -51,7 +51,7 @@ div#profile{
     width: 500px;
     display:block;
     background: #73b9bd;
-    margin-top: 61px;
+    margin-top: 80px;
     float:left;
     margin-left: 400px;
     
